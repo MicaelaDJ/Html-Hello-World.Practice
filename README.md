@@ -1,12 +1,12 @@
 # _Hello World_
 
-#### _A simple web page that collects  the word "hello" in many different languages. Created 1/7/19, Updated 3/7/19_
+#### _A simple web page that collects  the phrase "hello, world" in many different languages. Created 1/7/19, Updated 3/7/19_
 
 #### By _**Micaela Jawor & Theary Im**_
 
 ## Description
 
-_This is a simple webpage to practice the applications of basic html and css styling. The page shows the word "hello" in many different languages and also displayes their respective flags._
+_This is a simple webpage to practice the applications of basic html and css styling. The page shows the phrase "hello, world" in many different languages and also displayes their respective flags._
 
 ## Setup/Installation Requirements
 
