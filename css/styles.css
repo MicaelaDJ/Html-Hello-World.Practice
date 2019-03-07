@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+  font-family: fantasy;
+}
+
+img {
+  height: 100px;
+  width: 150px;
+}
+
+body {
+  background-color: #a2a2d0;
+}
