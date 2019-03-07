@@ -10,10 +10,14 @@ _This is a simple webpage to practice the applications of basic html and css sty
 
 ## Setup/Installation Requirements
 
-* _Please visit Hello World repository <a href="https://github.com/MicaelaDJ/Html-Hello-World.Practice">at this link</a>._
+##### Clone
+* _Please visit Hello World repository at this <a href="https://github.com/MicaelaDJ/Html-Hello-World.Practice">link</a>._
 * _Clone repository or download to desktop_
 * _Open files using IDE (Atom or Visual Code Studio) to view code._
 * _Open index.html using your preferred web browser to preview webpage._
+
+##### Open (Clone not required)
+* _Click this <a href="https://micaeladj.github.io/Html-Hello-World.Practice/">link</a>_
 
 ## Known Bugs
 
