@@ -29,6 +29,7 @@ _If you run into any issues or have questions, ideas or concerns, or if you want
 * _CSS_
 * _Atom_
 * _Git Bash_
+* _Favicomatic.com_
 
 ### License
 
